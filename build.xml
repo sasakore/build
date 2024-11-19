@@ -1,0 +1,7 @@
+<project name="build" default="helloworld">
+
+    <target name="helloworld" description="Pretty pointless ANT target">
+        <echo message="hiii"/>
+    </target>
+
+</project>
